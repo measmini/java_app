@@ -1,2 +1,2 @@
 # java_app
-This repo is for practice over Azure.
+This repo is for practice over Azure..
